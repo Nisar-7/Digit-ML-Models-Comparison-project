@@ -1,6 +1,4 @@
-# Digit-ML-Models-Comparison-project
-# Machine Learning with PCA on Digits Dataset
-
+# Digit-ML-Models-Comparison-project with PCA on Digits Dataset 
 This project applies Principal Component Analysis (PCA) for dimensionality reduction on the Digits dataset and evaluates several machine learning models on the reduced feature set. The PCA step reduces the number of features from 64 to 32, aiming to remove less important information and speed up the training process while maintaining performance.
 
 ## Dataset
